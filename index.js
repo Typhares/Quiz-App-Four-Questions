@@ -4,13 +4,13 @@ let questions = [
     {
         title: "What color is Squirtle",
         answers: ["yellow", "blue", "orange", "purple"],
-        correct: 1
+        correct: 3
     },
 
     {
         title: "What color is Bulbasor",
         answers: ["yellow", "blue", "orange", "purple"],
-        correct: 3
+        correct: 1
     },
 
     {
