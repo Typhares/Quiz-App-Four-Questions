@@ -8,19 +8,19 @@ let questions = [
     },
 
     {
-        title: "What color is Bulbasor",
+        title: "What color is Bulbasaur",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 1
     },
 
     {
-        title: "What color is Piqachew",
+        title: "What color is Pikachu",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 0
     },
 
     {
-        title: "What color is Chamander",
+        title: "What color is Charmander",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 2
     },
