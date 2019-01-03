@@ -2,25 +2,25 @@ let score = 0;
 let currentQuestion = 0;
 let questions = [ 
     {
-        title: "What color is Squirtle",
+        title: "What color is Nidoking?",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 3
     },
 
     {
-        title: "What color is Bulbasaur",
+        title: "What color is Bulbasor?",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 1
     },
 
     {
-        title: "What color is Pikachu",
+        title: "What color is Piqachew?",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 0
     },
 
     {
-        title: "What color is Charmander",
+        title: "What color is Chamander?",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 2
     },
