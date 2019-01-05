@@ -8,7 +8,7 @@ let questions = [
     },
 
     {
-        title: "What color is Bulbasor?",
+        title: "What color is Bulbasaur?",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 1
     },
@@ -20,7 +20,7 @@ let questions = [
     },
 
     {
-        title: "What color is Chamander?",
+        title: "What color is Charmander?",
         answers: ["yellow", "blue", "orange", "purple"],
         correct: 2
     },
